@@ -216,6 +216,11 @@ Real photos from conferences people found through this list. Went to one? [Share
 
 <!-- GALLERY_START -->
 <p align="center">
-  <i>No photos yet - be the first to <a href="https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues/new?template=gallery_photo.yaml">share one</a>.</i>
+<a href="assets/gallery/shpe-2024-familia.png"><img src="assets/gallery/shpe-2024-familia.png" height="175" alt="SHPE National Convention 2024"></a>
+<a href="assets/gallery/garden-of-the-gods.jpeg"><img src="assets/gallery/garden-of-the-gods.jpeg" height="175" alt="Group at Garden of the Gods, Colorado Springs"></a>
+<a href="assets/gallery/emerge-americas-walk.jpeg"><img src="assets/gallery/emerge-americas-walk.jpeg" height="175" alt="eMerge Americas"></a>
+<a href="assets/gallery/emerge-americas-selfie-1.png"><img src="assets/gallery/emerge-americas-selfie-1.png" height="175" alt="eMerge Americas"></a>
+<a href="assets/gallery/emerge-americas-selfie-2.png"><img src="assets/gallery/emerge-americas-selfie-2.png" height="175" alt="eMerge Americas"></a>
+<a href="assets/gallery/emerge-americas-hall.png"><img src="assets/gallery/emerge-americas-hall.png" height="175" alt="eMerge Americas"></a>
 </p>
 <!-- GALLERY_END -->
