@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎟️ BadgeUp
+# BadgeUp
 
 ### Undergrad conferences for every major - attend free, win a scholarship, or find the student rate.
 
