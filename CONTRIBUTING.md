@@ -4,7 +4,7 @@ Thanks for helping build the most useful conference list for undergrads. **The w
 
 ## The 60-second process
 
-1. **[Open a new issue](https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new/choose)** using the **Add a Conference** template.
+1. **[Open a new issue](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues/new/choose)** using the **Add a Conference** template.
 2. Paste the **official conference URL** and fill in what you know (a maintainer will fill any gaps).
 3. A maintainer reviews and approves it - then it's added to [README.md](README.md).
 

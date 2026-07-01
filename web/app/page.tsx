@@ -16,7 +16,7 @@ export default function Home() {
           This is a scaffold rendering a subset of the list. The canonical,
           full list lives in{" "}
           <a
-            href="https://github.com/Jose-Gael-Cruz-Lopez/conferences#readme"
+            href="https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp#readme"
             className="text-sky-400 hover:underline"
           >
             README.md

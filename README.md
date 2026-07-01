@@ -4,10 +4,10 @@
 
 ### The only conference list built for undergrads - attend free, win a scholarship, or find the student rate.
 
-[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/conferences?style=for-the-badge&color=FFD700&labelColor=000000&cacheSeconds=86400)](https://github.com/Jose-Gael-Cruz-Lopez/conferences/stargazers)
-[![Last Updated](https://img.shields.io/github/last-commit/Jose-Gael-Cruz-Lopez/conferences?style=for-the-badge&label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/conferences/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/Jose-Gael-Cruz-Lopez/conferences?style=for-the-badge&color=0091EA&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/conferences/graphs/contributors)
-[![Submissions](https://img.shields.io/github/issues/Jose-Gael-Cruz-Lopez/conferences?style=for-the-badge&label=Submissions&color=FF6D00&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues)
+[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&color=FFD700&labelColor=000000&cacheSeconds=86400)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/stargazers)
+[![Last Updated](https://img.shields.io/github/last-commit/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&color=0091EA&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/graphs/contributors)
+[![Submissions](https://img.shields.io/github/issues/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&label=Submissions&color=FF6D00&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues)
 
 </div>
 
@@ -25,7 +25,7 @@ This is community-driven. If you know a conference - or you got funded to one - 
 ---
 
 **To contribute** - it takes 60 seconds:
- 1. [Open an issue](https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new/choose) and paste the conference URL
+ 1. [Open an issue](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues/new/choose) and paste the conference URL
  2. A maintainer approves it
  3. It gets added to the list
 
@@ -202,7 +202,7 @@ Building and maintaining this list 💛
   </tr>
 </table>
 
-Want to join this wall? [Add a conference](https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new/choose) and you'll be credited as a contributor.
+Want to join this wall? [Add a conference](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues/new/choose) and you'll be credited as a contributor.
 
 ## Acknowledgements
 
@@ -212,10 +212,10 @@ Inspired by [Underclassmen Opportunities](https://github.com/Jose-Gael-Cruz-Lope
 
 <img src="assets/gallery-title.svg" alt="CONFERENCE PHOTO GALLERY" width="100%">
 
-Real photos from conferences people found through this list. Went to one? [Share a photo](https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new?template=gallery_photo.yaml) and it'll show up here.
+Real photos from conferences people found through this list. Went to one? [Share a photo](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues/new?template=gallery_photo.yaml) and it'll show up here.
 
 <!-- GALLERY_START -->
 <p align="center">
-  <i>No photos yet - be the first to <a href="https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new?template=gallery_photo.yaml">share one</a>.</i>
+  <i>No photos yet - be the first to <a href="https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues/new?template=gallery_photo.yaml">share one</a>.</i>
 </p>
 <!-- GALLERY_END -->

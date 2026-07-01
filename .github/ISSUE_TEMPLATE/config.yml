@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
   - name: 📖 Contributing guide
-    url: https://github.com/Jose-Gael-Cruz-Lopez/conferences/blob/main/CONTRIBUTING.md
+    url: https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/blob/main/CONTRIBUTING.md
     about: How to add a conference - read this first (60 seconds).
   - name: 💬 Question or correction
-    url: https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new
+    url: https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues/new
     about: Wrong deadline, dead link, or general question? Open a blank issue.
