@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img width="978" height="220" alt="BadgeUp - Undergrad Conferences for Every Major" src="assets/banner.svg" />
+  <img width="460" alt="BadgeUp - Undergrad Conferences for Every Major" src="assets/banner.png" />
 </div>
 
 > [!IMPORTANT]

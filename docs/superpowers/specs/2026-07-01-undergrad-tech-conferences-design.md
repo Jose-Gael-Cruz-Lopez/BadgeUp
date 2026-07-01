@@ -23,7 +23,7 @@ conferences/
 │   ├── gallery_photo.yaml # gallery photo submission form
 │   └── config.yml
 ├── assets/                # self-hosted banner, gallery title, contributor + gallery photos
-│   ├── banner.svg
+│   ├── banner.png
 │   ├── gallery-title.svg
 │   ├── contributors/
 │   └── gallery/
