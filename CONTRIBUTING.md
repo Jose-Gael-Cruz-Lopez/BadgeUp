@@ -14,9 +14,9 @@ You don't need to open a pull request. An issue is enough. If you'd rather submi
 
 A conference qualifies if an **undergraduate** (any year) can realistically attend it. That means at least one of:
 
-- 💚 **Free** to attend - free registration or a free virtual/livestream track.
-- 🎓 **Scholarship / travel grant** - the conference (or a partner org) funds students to attend.
-- 💵 **Paid with student pricing** - a real student, academic, or early-bird discount that undergrads can use.
+- **Free** to attend - free registration or a free virtual/livestream track.
+- **Scholarship / travel grant** - the conference (or a partner org) funds students to attend.
+- **Paid with student pricing** - a real student, academic, or early-bird discount that undergrads can use.
 
 **Any major welcome** - tech, business, engineering, health & medicine, sciences, social sciences, law, arts & humanities, education, and more. Each conference goes in its field/major section. Identity/community conferences (women, Black, Latinx, LGBTQ+ in any field) also go in their dedicated community sections.
 
@@ -27,7 +27,7 @@ A conference qualifies if an **undergraduate** (any year) can realistically atte
 Each conference is one table row. Copy this template:
 
 ```markdown
-| ✅ **[OPEN]** | Conference Name | Focus area | Month Year · City, ST + Virtual | 💚 Free / 🎓 Scholarship / 💵 Paid | <a href="https://OFFICIAL-URL/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Deadline or "Rolling" |
+| ✅ **[OPEN]** | Conference Name | Focus area | Month Year · City, ST + Virtual | Free / Scholarship / Paid | <a href="https://OFFICIAL-URL/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Deadline or "Rolling" |
 ```
 
 **Status** (first column):
@@ -38,7 +38,7 @@ Each conference is one table row. Copy this template:
 | `🔥 **[CLOSING SOON]**` | A deadline is within ~2 weeks |
 | `⏳ **[OPENS SOON]**` | Next cycle not open yet |
 
-**Access** (fifth column): use 💚 Free, 🎓 Scholarship, or 💵 Paid - combine with `·` when more than one applies (e.g. `🎓 Scholarship · 💵 Paid`).
+**Access** (fifth column): use Free, Scholarship, or Paid - combine with `·` when more than one applies (e.g. `Scholarship · Paid`).
 
 **Button label:** use `Apply` for scholarship/registration applications, `Register` for open registration, `Find Event` for chapter/regional listings, or `Join` for membership orgs.
 

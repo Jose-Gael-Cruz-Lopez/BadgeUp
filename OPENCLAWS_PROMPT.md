@@ -76,7 +76,7 @@ The extracted record maps to one Markdown table row in the section named by `sec
 ```
 
 - `status_badge`: `✅ **[OPEN]**` / `🔥 **[CLOSING SOON]**` / `⏳ **[OPENS SOON]**`
-- `access_badges`: join with ` · ` - `💚 Free`, `🎓 Scholarship`, `💵 Paid`
+- `access_badges`: join with ` · ` - `Free`, `Scholarship`, `Paid`
 - `apply_button`: `<a href="{url}"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a>` (use `Register` for open registration, `Find Event` for chapter/regional listings, `Join` for membership orgs)
 
 ## Safeguards

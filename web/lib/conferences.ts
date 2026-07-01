@@ -46,9 +46,9 @@ export const STATUS_LABEL: Record<Status, string> = {
 };
 
 export const ACCESS_LABEL: Record<Access, string> = {
-  FREE: "💚 Free",
-  SCHOLARSHIP: "🎓 Scholarship",
-  PAID: "💵 Paid",
+  FREE: "Free",
+  SCHOLARSHIP: "Scholarship",
+  PAID: "Paid",
 };
 
 export const SECTIONS: Section[] = [
