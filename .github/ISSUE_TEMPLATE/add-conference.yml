@@ -1,0 +1,84 @@
+name: "🎟️ Add a Conference"
+description: Suggest a tech conference undergrads can attend (free, scholarship, or student-priced).
+title: "[Conference] <name>"
+labels: ["new conference", "submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for contributing! This takes about 60 seconds. A maintainer will review and add it to the list.
+        Only the official URL and access type are required — leave the rest blank if you're not sure.
+  - type: input
+    id: name
+    attributes:
+      label: Conference name
+      placeholder: e.g. Grace Hopper Celebration (GHC)
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+      description: Link to the conference's own site (not a blog or aggregator).
+      placeholder: https://ghc.anitab.org/
+    validations:
+      required: true
+  - type: dropdown
+    id: access
+    attributes:
+      label: How can an undergrad attend?
+      description: Pick all that apply in the description if more than one.
+      options:
+        - "💚 Free (free registration or virtual track)"
+        - "🎓 Scholarship / travel grant available"
+        - "💵 Paid (has a student / academic discount)"
+        - "Not sure"
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which section does it belong in?
+      options:
+        - Free to Attend
+        - Scholarships & Travel Grants
+        - Paid (Student Discounts)
+        - Women in Tech Conferences
+        - Black in Tech Conferences
+        - Latinx in Tech Conferences
+        - LGBTQ+ in Tech Conferences
+        - Not sure — maintainer decides
+    validations:
+      required: true
+  - type: input
+    id: focus
+    attributes:
+      label: Focus area
+      placeholder: e.g. Women in computing / AI-ML / Cloud native / Security
+  - type: input
+    id: dates_location
+    attributes:
+      label: Dates & location
+      description: Use a season/year if exact dates aren't out yet. Note if virtual.
+      placeholder: e.g. Sep 2026 · Orlando, FL + Virtual
+  - type: input
+    id: deadline
+    attributes:
+      label: Scholarship / registration deadline
+      placeholder: e.g. Fall 2026, Rolling, or "Check site"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Eligibility notes, student-volunteer options, personal experience getting funded, etc.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Quick checks
+      options:
+        - label: This is a tech-focused conference an undergraduate can realistically attend.
+          required: true
+        - label: I linked the official site (not an aggregator or blog).
+          required: true
+        - label: I searched existing issues and the README to avoid duplicates.
+          required: true
