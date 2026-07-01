@@ -1,0 +1,36 @@
+name: "📸 Share a Gallery Photo"
+description: Went to a conference you found here? Share a photo for the gallery.
+title: "[Gallery] <conference name>"
+labels: ["gallery", "submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for sharing! Attach your photo below and a maintainer will add it to the Gallery in the README.
+        Only submit photos you took or have the right to share.
+  - type: input
+    id: conference
+    attributes:
+      label: Which conference?
+      placeholder: e.g. Grace Hopper Celebration 2026
+    validations:
+      required: true
+  - type: textarea
+    id: photo
+    attributes:
+      label: Photo
+      description: Drag and drop your image here (GitHub will upload it and paste a URL).
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Credit / caption (optional)
+      placeholder: e.g. Late-night hacking · Photo by @you
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Confirmation
+      options:
+        - label: I took this photo or have the right to share it, and I'm okay with it appearing in this repo.
+          required: true

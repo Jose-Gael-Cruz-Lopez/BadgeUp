@@ -11,9 +11,8 @@
 
 </div>
 
-<!-- Replace the placeholder below with a banner image: drag a PNG into a GitHub issue/PR comment and paste the generated URL here. -->
 <div align="center">
-  <img width="978" height="220" alt="Undergrad Tech Conferences banner - add your own banner image" src="https://placehold.co/978x220/000000/FFD700/png?text=%F0%9F%8E%9F%EF%B8%8F+Undergrad+Tech+Conferences" />
+  <img width="978" height="220" alt="Undergrad Tech Conferences" src="assets/banner.svg" />
 </div>
 
 > [!IMPORTANT]
@@ -49,7 +48,9 @@ This is community-driven. If you know a conference - or you got funded to one - 
 - [LGBTQ+ in Tech Conferences](#lgbtq-in-tech-conferences)
 - [Resources for Attendees](#resources-for-attendees)
 - [Contributing](#contributing)
+- [Contributors](#contributors)
 - [Acknowledgements](#acknowledgements)
+- [Gallery](#gallery)
 
 ---
 
@@ -186,6 +187,35 @@ Guides for getting to a conference and making it count - even on a student budge
 
 Found a conference undergrads can attend, or got funded to one? Add it - see **[CONTRIBUTING.md](CONTRIBUTING.md)** for the 60-second process. Closed or past conferences move to **[ARCHIVE.md](ARCHIVE.md)**.
 
+## Contributors
+
+Building and maintaining this list 💛
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/josegaelcruz">
+        <img src="assets/contributors/jose.svg" width="115" height="115" alt="Jose Cruz"><br>
+        <sub><b>Jose Cruz</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Want to join this wall? [Add a conference](https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new/choose) and you'll be credited as a contributor.
+
 ## Acknowledgements
 
 Inspired by [Underclassmen Opportunities](https://github.com/Jose-Gael-Cruz-Lopez/underclassmen-opportunities) and the many community-run internship lists that came before it. Built for every undergrad who was told to "wait until junior year." Thank you to everyone who contributes a conference.
+
+<a id="gallery"></a>
+
+<img src="assets/gallery-title.svg" alt="CONFERENCE PHOTO GALLERY" width="100%">
+
+Real photos from conferences people found through this list. Went to one? [Share a photo](https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new?template=gallery_photo.yaml) and it'll show up here.
+
+<!-- GALLERY_START -->
+<p align="center">
+  <i>No photos yet - be the first to <a href="https://github.com/Jose-Gael-Cruz-Lopez/conferences/issues/new?template=gallery_photo.yaml">share one</a>.</i>
+</p>
+<!-- GALLERY_END -->
