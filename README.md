@@ -305,8 +305,6 @@ Inspired by [Underclassmen Opportunities](https://github.com/Jose-Gael-Cruz-Lope
   <img src="assets/ascii-logo.svg" alt="BadgeUp" width="560">
 </div>
 
-<img src="assets/gallery-title.svg" alt="CONFERENCE PHOTO GALLERY" width="100%">
-
 Real photos from conferences people found through this list. Went to one? [Share a photo](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues/new?template=gallery_photo.yaml) and it'll show up here.
 
 <!-- GALLERY_START -->

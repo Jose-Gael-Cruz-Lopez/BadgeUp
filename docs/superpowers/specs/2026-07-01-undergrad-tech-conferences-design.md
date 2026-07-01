@@ -24,7 +24,6 @@ conferences/
 │   └── config.yml
 ├── assets/                # self-hosted banner, gallery title, contributor + gallery photos
 │   ├── banner.png
-│   ├── gallery-title.svg
 │   ├── contributors/
 │   └── gallery/
 ├── docs/superpowers/specs/  # design specs (this file)
