@@ -169,7 +169,6 @@ This is community-driven. If you know a conference - or you got funded to one - 
 | ⏳ **[OPENS SOON]** | NBLSA National Convention | Black law students | Mar 2027 · Location TBA | Paid (student) | <a href="https://www.nblsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
 | ✅ **[OPEN]** | HNBA Annual Convention | Hispanic legal professionals | Sep 2026 · Location TBA | Scholarship · Paid | <a href="https://hnba.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
 | ✅ **[OPEN]** | Lavender Law (National LGBTQ+ Bar) | LGBTQ+ in law | Aug 2026 · Location TBA | Scholarship · Paid | <a href="https://lgbtqbar.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ✅ **[OPEN]** | ABA Law Student events | Law, pre-law | Year-round · Various + Virtual | Paid (student) | <a href="https://www.americanbar.org/groups/law_students/"><img src="https://img.shields.io/badge/Find%20Event-blue?style=for-the-badge" alt="Find Event"></a> | Per event |
 
 ---
 
@@ -204,7 +203,7 @@ Conferences open to students of any major - undergraduate research, leadership, 
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
 | ⏳ **[OPENS SOON]** | NCUR (National Conference on Undergraduate Research) | Undergrad research, all majors | Spring 2027 · Location TBA | Paid (student) | <a href="https://www.cur.org/events/ncur/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Fall 2026 (abstracts) |
 | ⏳ **[OPENS SOON]** | Clinton Global Initiative University (CGI U) | Leadership, social impact | 2027 · Location TBA | Scholarship · Free (accepted) | <a href="https://www.clintonfoundation.org/programs/leadership-economic-opportunity/clinton-global-initiative-university/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Winter 2026 |
-| ✅ **[OPEN]** | ColorStack National Events | Black & Latinx computing students | Year-round · Members + Virtual | Free for members | <a href="https://www.colorstack.org/"><img src="https://img.shields.io/badge/Join-blue?style=for-the-badge" alt="Join"></a> | Rolling membership |
+| ✅ **[OPEN]** | ColorStack Stacked Up Summit | Black & Latinx computing students | 2026 · Members + Virtual | Free for members | <a href="https://www.colorstack.org/"><img src="https://img.shields.io/badge/Join-blue?style=for-the-badge" alt="Join"></a> | Rolling membership |
 | ⏳ **[OPENS SOON]** | Web Summit | General tech & startups | Nov 2026 · Lisbon, Portugal | Paid (student tickets) | <a href="https://websummit.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
 | ✅ **[OPEN]** | EA Global: New York City | Effective altruism, cross-discipline | 2026 · New York, NY | Scholarship · Paid | <a href="https://www.effectivealtruism.org/ea-global"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check site (travel funding available) |
 
@@ -219,8 +218,7 @@ Conferences centering women across every major.
 | ✅ **[OPEN]** | Grace Hopper Celebration (GHC) | Tech / computing | Sep 2026 · Orlando, FL + Virtual | Scholarship · Paid | <a href="https://ghc.anitab.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Scholarships: check site |
 | ✅ **[OPEN]** | Society of Women Engineers - WE26 | Engineering | Oct 2026 · Location TBA | Scholarship · Paid | <a href="https://we26.swe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Travel grants: Summer 2026 |
 | ✅ **[OPEN]** | Women in Data Science (WiDS) Worldwide | Data science | Regional year-round · Worldwide + Virtual | Free (most events) | <a href="https://www.widsworldwide.org/"><img src="https://img.shields.io/badge/Find%20Event-blue?style=for-the-badge" alt="Find Event"></a> | Per event |
-| ✅ **[OPEN]** | Forté Foundation events | Business / MBA | Year-round · Various + Virtual | Scholarship · Paid | <a href="https://www.fortefoundation.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Per event |
-| ⏳ **[OPENS SOON]** | AMWA (American Medical Women's Association) | Medicine | Spring 2027 · Location TBA | Paid (student) | <a href="https://www.amwa-doc.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
+| ⏳ **[OPENS SOON]** | AMWA Annual Meeting | Medicine (women physicians) | Spring 2027 · Location TBA | Paid (student) | <a href="https://www.amwa-doc.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
 
 ---
 
