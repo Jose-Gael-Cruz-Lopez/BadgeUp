@@ -313,5 +313,12 @@ Real photos from conferences people found through this list. Went to one? [Share
 <a href="assets/gallery/emerge-americas-selfie-1.png"><img src="assets/gallery/emerge-americas-selfie-1.png" height="175" alt="eMerge Americas"></a>
 <a href="assets/gallery/emerge-americas-selfie-2.png"><img src="assets/gallery/emerge-americas-selfie-2.png" height="175" alt="eMerge Americas"></a>
 <a href="assets/gallery/emerge-americas-hall.png"><img src="assets/gallery/emerge-americas-hall.png" height="175" alt="eMerge Americas"></a>
+<a href="assets/gallery/emerge-americas-mainstage.jpg"><img src="assets/gallery/emerge-americas-mainstage.jpg" height="175" alt="eMerge Americas main stage"></a>
+<a href="assets/gallery/miami-dade-stem-competition.jpg"><img src="assets/gallery/miami-dade-stem-competition.jpg" height="175" alt="STEM competition, Miami Dade College North Campus"></a>
+<a href="assets/gallery/miami-dade-stem-winners.jpg"><img src="assets/gallery/miami-dade-stem-winners.jpg" height="175" alt="STEM competition winners, Miami Dade College North Campus"></a>
+<a href="assets/gallery/fresh-exp-day-istanbul.jpg"><img src="assets/gallery/fresh-exp-day-istanbul.jpg" height="175" alt="Fresh Exp Day, Istanbul"></a>
+<a href="assets/gallery/conference-keynote-session.jpg"><img src="assets/gallery/conference-keynote-session.jpg" height="175" alt="Conference keynote session"></a>
+<a href="assets/gallery/conference-travel-crew.jpg"><img src="assets/gallery/conference-travel-crew.jpg" height="175" alt="Students traveling to a conference"></a>
+<a href="assets/gallery/conference-group-meal.jpg"><img src="assets/gallery/conference-group-meal.jpg" height="175" alt="Conference group"></a>
 </p>
 <!-- GALLERY_END -->
