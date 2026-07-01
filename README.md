@@ -93,13 +93,13 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | GitHub Universe | Dev tools, AI, open source | Oct 2026 · San Francisco, CA + Virtual | Free (virtual pass) | <a href="https://githubuniverse.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ✅ **[OPEN]** | Grace Hopper Celebration (GHC) | Women in computing | Sep 2026 · Orlando, FL + Virtual | Scholarship · Paid | <a href="https://ghc.anitab.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Scholarships: check site |
-| ✅ **[OPEN]** | ACM Richard Tapia Celebration of Diversity in Computing | Diversity in computing | Sep 2026 · Location TBA | Scholarship | <a href="https://tapiaconference.cmd-it.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Scholarship: check site |
-| ✅ **[OPEN]** | KubeCon + CloudNativeCon NA | Cloud native, Kubernetes | Nov 2026 · Los Angeles, CA | Scholarship · Paid | <a href="https://www.cncf.io/kubecon-cloudnativecon-events/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Scholarship: Fall 2026 |
-| ✅ **[OPEN]** | AWS re:Invent | Cloud, AI | Dec 2026 · Las Vegas, NV | Scholarship · Paid | <a href="https://reinvent.awsevents.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | All Builders Welcome grant (funded): Jul 14, 2026 |
-| ⏳ **[OPENS SOON]** | PyCon US | Python | May 2027 · Location TBA | Scholarship | <a href="https://us.pycon.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
-| ✅ **[OPEN]** | NeurIPS | AI / machine learning | Dec 2026 · San Diego, CA | Scholarship · Paid | <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Fall 2026 |
+| ✅ **[OPEN]** | GitHub Universe | Dev tools, AI, open source | Oct 28-29, 2026 · San Francisco, CA | Free (virtual pass) | <a href="https://githubuniverse.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Super Early Bird pricing ends Jul 8, 2026 |
+| ✅ **[OPEN]** | Grace Hopper Celebration (GHC) | Women in computing | Oct 27-30, 2026 · Anaheim, CA + Virtual | Scholarship · Paid | <a href="https://ghc.anitab.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Student scholarships closed for 2026 |
+| ✅ **[OPEN]** | ACM Richard Tapia Celebration of Diversity in Computing | Diversity in computing | Sep 16-18, 2026 · Atlanta, GA | Scholarship | <a href="https://tapiaconference.cmd-it.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Reg open; scholarships closed (Mar 2026) |
+| ✅ **[OPEN]** | KubeCon + CloudNativeCon NA | Cloud native, Kubernetes | Nov 9-12, 2026 · Salt Lake City, UT | Scholarship · Paid | <a href="https://www.cncf.io/kubecon-cloudnativecon-events/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration open; scholarships TBA |
+| ✅ **[OPEN]** | AWS re:Invent | Cloud, AI | Nov 30-Dec 4, 2026 · Las Vegas, NV | Scholarship · Paid | <a href="https://reinvent.awsevents.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | All Builders Welcome grant (funded): Jul 14, 2026 |
+| ⏳ **[OPENS SOON]** | PyCon US | Python | May 2027 · Long Beach, CA | Scholarship | <a href="https://us.pycon.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | 2027 dates not yet announced |
+| ⏳ **[OPENS SOON]** | NeurIPS | AI / machine learning | Dec 6-12, 2026 · Sydney, Australia | Scholarship · Paid | <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Attendee registration not yet open |
 
 ---
 
@@ -107,11 +107,10 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | ALPFA National Convention | Latino business professionals | Aug 2026 · Location TBA | Scholarship · Paid | <a href="https://www.alpfa.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ✅ **[OPEN]** | National Black MBA Association Conference | Business, careers | Sep 2026 · Location TBA | Scholarship · Paid | <a href="https://nbmbaa.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ✅ **[OPEN]** | Prospanica Conference | Hispanic business professionals | Oct 2026 · Location TBA | Scholarship · Paid | <a href="https://www.prospanica.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Fall 2026 |
-| ✅ **[OPEN]** | Net Impact Conference | Business + social/environmental impact | Fall 2026 · Location TBA | Paid (student) | <a href="https://www.netimpact.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ✅ **[OPEN]** | INBOUND | Marketing, sales, business | Sep 2026 · San Francisco, CA + Virtual | Paid (student rate) | <a href="https://www.inbound.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
+| ✅ **[OPEN]** | ALPFA National Convention | Latino business professionals | Aug 9-13, 2026 · Charlotte, NC | Scholarship · Paid | <a href="https://www.alpfa.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration deadline: Jul 27, 2026 |
+| ✅ **[OPEN]** | National Black MBA Association Conference | Business, careers | Sep 23-25, 2026 · Los Angeles, CA | Scholarship · Paid | <a href="https://nbmbaa.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| ✅ **[OPEN]** | Prospanica Conference | Hispanic business professionals | Oct 6-9, 2026 · Orlando, FL | Scholarship · Paid | <a href="https://www.prospanica.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Free/early-bird registration open |
+| ✅ **[OPEN]** | UNBOUND (formerly INBOUND) | Marketing, sales, business | Sep 16-18, 2026 · Boston, MA | Paid (student rate) | <a href="https://www.inbound.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration open |
 
 ---
 
@@ -119,11 +118,11 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | SHPE National Convention | Hispanic engineers | Oct-Nov 2026 · Location TBA | Scholarship · Paid | <a href="https://www.shpe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Travel awards: Summer 2026 |
-| ✅ **[OPEN]** | Society of Women Engineers - WE26 | Engineering | Oct 2026 · Location TBA | Scholarship · Paid | <a href="https://we26.swe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Travel grants: Summer 2026 |
-| ⏳ **[OPENS SOON]** | NSBE Annual Convention | Black engineers | Mar 2027 · Location TBA | Scholarship · Paid | <a href="https://convention.nsbe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
-| ✅ **[OPEN]** | SASE National Convention | Asian scientists & engineers | Oct 2026 · Location TBA | Scholarship · Paid | <a href="https://www.saseconnect.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Fall 2026 |
-| ✅ **[OPEN]** | AISES National Conference | Native American in STEM | Oct 2026 · Location TBA | Scholarship · Paid | <a href="https://www.aises.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
+| ⏳ **[OPENS SOON]** | SHPE National Convention | Hispanic engineers | Oct 28-31, 2026 · Indianapolis, IN | Scholarship · Paid | <a href="https://www.shpe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration opens soon |
+| ✅ **[OPEN]** | Society of Women Engineers - WE26 | Engineering | Nov 5-7, 2026 · Boston, MA | Scholarship · Paid | <a href="https://we26.swe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| ⏳ **[OPENS SOON]** | NSBE Annual Convention | Black engineers | Mar 31-Apr 4, 2027 · Boston, MA | Scholarship · Paid | <a href="https://convention.nsbe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | 2027 registration not yet open |
+| ✅ **[OPEN]** | SASE National Convention | Asian scientists & engineers | Oct 1-3, 2026 · Seattle, WA | Scholarship · Paid | <a href="https://www.saseconnect.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| ✅ **[OPEN]** | AISES National Conference | Native American in STEM | Oct 15-17, 2026 · Portland, OR | Scholarship · Paid | <a href="https://www.aises.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Reg open; pre-conf rate by Sep 21 |
 
 ---
 
@@ -131,11 +130,11 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ⏳ **[OPENS SOON]** | SNMA Annual Medical Education Conference (AMEC) | Underrepresented in medicine | Apr 2027 · Location TBA | Scholarship · Paid | <a href="https://snma.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
-| ⏳ **[OPENS SOON]** | LMSA National Conference | Latino medical students | Spring 2027 · Location TBA | Scholarship · Paid | <a href="https://lmsa.net/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
-| ✅ **[OPEN]** | APHA Annual Meeting & Expo | Public health | Nov 2026 · Location TBA | Paid (student) | <a href="https://www.apha.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ⏳ **[OPENS SOON]** | AMSA Annual Convention | Medical & pre-med students | Spring 2027 · Location TBA | Paid (student) | <a href="https://www.amsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
-| ⏳ **[OPENS SOON]** | NSNA Annual Convention | Nursing students | Apr 2027 · Location TBA | Paid (student) | <a href="https://www.nsna.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
+| ⏳ **[OPENS SOON]** | SNMA Annual Medical Education Conference (AMEC) | Underrepresented in medicine | Spring 2027 · Las Vegas, NV | Scholarship · Paid | <a href="https://snma.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | 2027 dates unconfirmed; reg not open |
+| ✅ **[OPEN]** | LMSA National Conference | Latino medical students | Sep 17-20, 2026 · Houston, TX | Scholarship · Paid | <a href="https://lmsa.net/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| ✅ **[OPEN]** | APHA Annual Meeting & Expo | Public health | Nov 1-4, 2026 · San Antonio, TX | Paid (student) | <a href="https://www.apha.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rates rise Jul 15, 2026 |
+| ✅ **[OPEN]** | AMSA Annual Convention | Medical & pre-med students | Dec 10-12, 2026 · Washington, DC | Paid (student) | <a href="https://www.amsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early-bird registration open |
+| ⏳ **[OPENS SOON]** | NSNA Annual Convention | Nursing students | Mar 31-Apr 3, 2027 · Orlando, FL | Paid (student) | <a href="https://www.nsna.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | 2027 registration not yet open |
 
 ---
 
@@ -143,11 +142,11 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | SACNAS - The National Diversity in STEM Conference | Diversity in STEM research | Oct 2026 · Location TBA | Travel Scholarship | <a href="https://www.sacnas.org/conference"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ✅ **[OPEN]** | ABRCMS | Biomedical research (underrepresented) | Nov 2026 · Location TBA | Travel Award | <a href="https://www.abrcms.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ✅ **[OPEN]** | AGU Annual Meeting | Earth & space science | Dec 2026 · Location TBA | Scholarship · Paid | <a href="https://www.agu.org/annual-meeting"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Fall 2026 |
-| ⏳ **[OPENS SOON]** | AAAS Annual Meeting | Science, cross-discipline | Feb 2027 · Location TBA | Paid (student) | <a href="https://meetings.aaas.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
-| ⏳ **[OPENS SOON]** | ACS Spring National Meeting | Chemistry | Mar 2027 · Location TBA | Scholarship · Paid | <a href="https://www.acs.org/meetings.html"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
+| ✅ **[OPEN]** | SACNAS - The National Diversity in STEM Conference | Diversity in STEM research | Oct 29-31, 2026 · Long Beach, CA | Travel Scholarship | <a href="https://www.sacnas.org/conference"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Reg open; travel scholarships closed |
+| ✅ **[OPEN]** | ABRCMS | Biomedical research (underrepresented) | Nov 18-21, 2026 · Seattle, WA | Travel Award | <a href="https://www.abrcms.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Student travel award deadline: Sep 11, 2026 |
+| ✅ **[OPEN]** | AGU Annual Meeting | Earth & space science | Dec 7-11, 2026 · San Francisco, CA | Scholarship · Paid | <a href="https://www.agu.org/annual-meeting"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Travel grants: Jul 2-Aug 12, 2026 |
+| ⏳ **[OPENS SOON]** | AAAS Annual Meeting | Science, cross-discipline | Feb 18-20, 2027 · Chicago, IL | Paid (student) | <a href="https://meetings.aaas.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration opens ~Aug 2026 |
+| ⏳ **[OPENS SOON]** | ACS Spring National Meeting | Chemistry | Mar 21-25, 2027 · New Orleans, LA | Scholarship · Paid | <a href="https://www.acs.org/meetings.html"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Abstracts open ~Aug 2026 |
 
 ---
 
@@ -155,10 +154,10 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | APSA Annual Meeting | Political science | Sep 2026 · Location TBA | Paid (student) | <a href="https://www.apsanet.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ✅ **[OPEN]** | ASA Annual Meeting | Sociology | Aug 2026 · Location TBA | Paid (student) | <a href="https://www.asanet.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ✅ **[OPEN]** | APA Convention | Psychology | Aug 2026 · Location TBA | Paid (student) | <a href="https://convention.apa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ✅ **[OPEN]** | APPAM Fall Research Conference | Public policy & management | Nov 2026 · Location TBA | Scholarship · Paid | <a href="https://www.appam.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Fall 2026 |
+| ✅ **[OPEN]** | APSA Annual Meeting | Political science | Sep 3-6, 2026 · Boston, MA | Paid (student) | <a href="https://www.apsanet.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration open; travel grants offered |
+| ✅ **[OPEN]** | ASA Annual Meeting | Sociology | Aug 7-11, 2026 · New York, NY | Paid (student) | <a href="https://www.asanet.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration open |
+| ✅ **[OPEN]** | APA Convention | Psychology | Aug 6-8, 2026 · Washington, DC + Virtual | Paid (student) | <a href="https://convention.apa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration open |
+| ⏳ **[OPENS SOON]** | APPAM Fall Research Conference | Public policy & management | Nov 5-7, 2026 · Boston, MA | Scholarship · Paid | <a href="https://www.appam.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration opens late Jul 2026 |
 
 ---
 
@@ -166,9 +165,9 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ⏳ **[OPENS SOON]** | NBLSA National Convention | Black law students | Mar 2027 · Location TBA | Paid (student) | <a href="https://www.nblsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
-| ✅ **[OPEN]** | HNBA Annual Convention | Hispanic legal professionals | Sep 2026 · Location TBA | Scholarship · Paid | <a href="https://hnba.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ✅ **[OPEN]** | Lavender Law (National LGBTQ+ Bar) | LGBTQ+ in law | Aug 2026 · Location TBA | Scholarship · Paid | <a href="https://lgbtqbar.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
+| ⏳ **[OPENS SOON]** | NBLSA National Convention | Black law students | 2027 · Location TBA | Paid (student) | <a href="https://www.nblsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | 2027 dates not yet announced |
+| ✅ **[OPEN]** | HNBA Annual Convention | Hispanic legal professionals | Sep 9-11, 2026 · National Harbor, MD | Scholarship · Paid | <a href="https://hnba.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| 🔥 **[CLOSING SOON]** | Lavender Law (National LGBTQ+ Bar) | LGBTQ+ in law | Jul 13-15, 2026 · Chicago, IL | Scholarship · Paid | <a href="https://lgbtqbar.org/annual/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Event in mid-July; register now |
 
 ---
 
@@ -176,11 +175,11 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ⏳ **[OPENS SOON]** | AWP Conference & Bookfair | Creative writing, publishing | Mar 2027 · Location TBA | Paid (student) | <a href="https://www.awpwriter.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
-| ⏳ **[OPENS SOON]** | MLA Annual Convention | Languages & literature | Jan 2027 · Location TBA | Paid (student) | <a href="https://www.mla.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Fall 2026 |
-| ⏳ **[OPENS SOON]** | College Art Association (CAA) Annual Conference | Art & art history | Feb 2027 · Location TBA | Paid (student) | <a href="https://www.collegeart.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
-| ✅ **[OPEN]** | AIGA Design Conference | Graphic & communication design | Fall 2026 · Location TBA | Paid (student) | <a href="https://www.aiga.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ⏳ **[OPENS SOON]** | SXSW | Film, music, media, interactive | Mar 2027 · Austin, TX | Paid (student) | <a href="https://www.sxsw.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
+| ⏳ **[OPENS SOON]** | AWP Conference & Bookfair | Creative writing, publishing | Mar 17-20, 2027 · Chicago, IL | Paid (student) | <a href="https://www.awpwriter.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration opens Fall 2026 |
+| ⏳ **[OPENS SOON]** | MLA Annual Convention | Languages & literature | Jan 7-10, 2027 · Los Angeles, CA | Paid (student) | <a href="https://www.mla.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration opens Sep 2026 |
+| ⏳ **[OPENS SOON]** | College Art Association (CAA) Annual Conference | Art & art history | Feb 3-6, 2027 · New York, NY | Paid (student) | <a href="https://www.collegeart.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration opens Fall 2026 |
+| ⏳ **[OPENS SOON]** | AIGA Design Conference | Graphic & communication design | 2026 · Location TBA | Paid (student) | <a href="https://www.aiga.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Next dates not yet announced |
+| ⏳ **[OPENS SOON]** | SXSW | Film, music, media, interactive | Mar 15-21, 2027 · Austin, TX | Paid (student) | <a href="https://www.sxsw.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Badge registration opens Summer 2026 |
 
 ---
 
@@ -188,10 +187,10 @@ This is community-driven. If you know a conference - or you got funded to one - 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ⏳ **[OPENS SOON]** | AERA Annual Meeting | Education research | Apr 2027 · Location TBA | Paid (student) | <a href="https://www.aera.net/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
-| ⏳ **[OPENS SOON]** | SXSW EDU | Teaching, learning, edtech | Mar 2027 · Austin, TX | Paid (student) | <a href="https://www.sxswedu.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ⏳ **[OPENS SOON]** | ISTELive | Educational technology | Jun 2027 · Location TBA | Paid (student) | <a href="https://www.iste.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
-| ✅ **[OPEN]** | NAFSA Annual Conference | International education | May 2027 · Location TBA | Paid (student) | <a href="https://www.nafsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
+| ⏳ **[OPENS SOON]** | AERA Annual Meeting | Education research | Apr 14-18, 2027 · Toronto, Canada | Paid (student) | <a href="https://www.aera.net/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration not yet open |
+| ⏳ **[OPENS SOON]** | SXSW EDU | Teaching, learning, edtech | Mar 13-16, 2027 · Austin, TX | Paid (student) | <a href="https://www.sxswedu.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Badge registration opens soon |
+| ⏳ **[OPENS SOON]** | ISTELive | Educational technology | Jun 27-30, 2027 · Boston, MA | Paid (student) | <a href="https://www.iste.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | ISTELive 27 registration not yet open |
+| ⏳ **[OPENS SOON]** | NAFSA Annual Conference | International education | Jun 1-4, 2027 · Los Angeles, CA | Paid (student) | <a href="https://www.nafsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration not yet open |
 
 ---
 
@@ -201,11 +200,11 @@ Conferences open to students of any major - undergraduate research, leadership, 
 
 | Status | Conference | Focus | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ⏳ **[OPENS SOON]** | NCUR (National Conference on Undergraduate Research) | Undergrad research, all majors | Spring 2027 · Location TBA | Paid (student) | <a href="https://www.cur.org/events/ncur/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Fall 2026 (abstracts) |
-| ⏳ **[OPENS SOON]** | Clinton Global Initiative University (CGI U) | Leadership, social impact | 2027 · Location TBA | Scholarship · Free (accepted) | <a href="https://www.clintonfoundation.org/programs/leadership-economic-opportunity/clinton-global-initiative-university/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Winter 2026 |
-| ✅ **[OPEN]** | ColorStack Stacked Up Summit | Black & Latinx computing students | 2026 · Members + Virtual | Free for members | <a href="https://www.colorstack.org/"><img src="https://img.shields.io/badge/Join-blue?style=for-the-badge" alt="Join"></a> | Rolling membership |
-| ⏳ **[OPENS SOON]** | Web Summit | General tech & startups | Nov 2026 · Lisbon, Portugal | Paid (student tickets) | <a href="https://websummit.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ✅ **[OPEN]** | EA Global: New York City | Effective altruism, cross-discipline | 2026 · New York, NY | Scholarship · Paid | <a href="https://www.effectivealtruism.org/ea-global"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check site (travel funding available) |
+| ⏳ **[OPENS SOON]** | NCUR (National Conference on Undergraduate Research) | Undergrad research, all majors | Apr 12-14, 2027 · Grand Rapids, MI | Paid (student) | <a href="https://www.cur.org/events-services/ncur/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Abstracts Sep 2026; reg Jan 2027 |
+| ⏳ **[OPENS SOON]** | Clinton Global Initiative University (CGI U) | Leadership, social impact | 2027 · Location TBA | Scholarship · Free (accepted) | <a href="https://www.cgiu.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Next application cycle ~early 2027 |
+| ✅ **[OPEN]** | ColorStack Stacked Up Summit | Black & Latinx computing students | Aug 17-18, 2026 · Members + Virtual | Free for members | <a href="https://www.stackedupsummit.org/"><img src="https://img.shields.io/badge/Join-blue?style=for-the-badge" alt="Join"></a> | Open to ColorStack members |
+| ✅ **[OPEN]** | Web Summit | General tech & startups | Nov 9-12, 2026 · Lisbon, Portugal | Paid (student tickets) | <a href="https://websummit.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Tickets on sale |
+| ✅ **[OPEN]** | EA Global: New York City | Effective altruism, cross-discipline | Oct 16-18, 2026 · New York, NY | Scholarship · Paid | <a href="https://www.effectivealtruism.org/ea-global"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Applications close Sep 27, 2026 |
 
 ---
 
@@ -215,10 +214,10 @@ Conferences centering women across every major.
 
 | Status | Conference | Field | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | Grace Hopper Celebration (GHC) | Tech / computing | Sep 2026 · Orlando, FL + Virtual | Scholarship · Paid | <a href="https://ghc.anitab.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Scholarships: check site |
-| ✅ **[OPEN]** | Society of Women Engineers - WE26 | Engineering | Oct 2026 · Location TBA | Scholarship · Paid | <a href="https://we26.swe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Travel grants: Summer 2026 |
-| ✅ **[OPEN]** | Women in Data Science (WiDS) Worldwide | Data science | Regional year-round · Worldwide + Virtual | Free (most events) | <a href="https://www.widsworldwide.org/"><img src="https://img.shields.io/badge/Find%20Event-blue?style=for-the-badge" alt="Find Event"></a> | Per event |
-| ⏳ **[OPENS SOON]** | AMWA Annual Meeting | Medicine (women physicians) | Spring 2027 · Location TBA | Paid (student) | <a href="https://www.amwa-doc.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
+| ✅ **[OPEN]** | Grace Hopper Celebration (GHC) | Tech / computing | Oct 27-30, 2026 · Anaheim, CA + Virtual | Scholarship · Paid | <a href="https://ghc.anitab.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Student scholarships closed for 2026 |
+| ✅ **[OPEN]** | Society of Women Engineers - WE26 | Engineering | Nov 5-7, 2026 · Boston, MA | Scholarship · Paid | <a href="https://we26.swe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| ⏳ **[OPENS SOON]** | Women in Data Science (WiDS) Worldwide | Data science | Mar 2027 · Stanford, CA + Worldwide | Free (most events) | <a href="https://www.widsworldwide.org/"><img src="https://img.shields.io/badge/Find%20Event-blue?style=for-the-badge" alt="Find Event"></a> | 2027 flagship dates TBA |
+| ⏳ **[OPENS SOON]** | AMWA Annual Meeting | Medicine (women physicians) | Mar 11-14, 2027 · Washington, DC area | Paid (student) | <a href="https://www.amwa-doc.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration not yet open |
 
 ---
 
@@ -226,11 +225,11 @@ Conferences centering women across every major.
 
 | Status | Conference | Field | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | AfroTech Conference | Tech | Nov 2026 · Houston, TX | Scholarship · Paid | <a href="https://afrotech.com/afrotech-conference"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Scholarships: Fall 2026 |
-| ⏳ **[OPENS SOON]** | NSBE Annual Convention | Engineering | Mar 2027 · Location TBA | Scholarship · Paid | <a href="https://convention.nsbe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
-| ✅ **[OPEN]** | National Black MBA Association Conference | Business | Sep 2026 · Location TBA | Scholarship · Paid | <a href="https://nbmbaa.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ⏳ **[OPENS SOON]** | SNMA Annual Medical Education Conference (AMEC) | Medicine | Apr 2027 · Location TBA | Scholarship · Paid | <a href="https://snma.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
-| ⏳ **[OPENS SOON]** | NBLSA National Convention | Law | Mar 2027 · Location TBA | Paid (student) | <a href="https://www.nblsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
+| ✅ **[OPEN]** | AfroTech Conference | Tech | Nov 2-6, 2026 · Houston, TX | Scholarship · Paid | <a href="https://afrotechconference.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open; scholarships TBA |
+| ⏳ **[OPENS SOON]** | NSBE Annual Convention | Engineering | Mar 31-Apr 4, 2027 · Boston, MA | Scholarship · Paid | <a href="https://convention.nsbe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | 2027 registration not yet open |
+| ✅ **[OPEN]** | National Black MBA Association Conference | Business | Sep 23-25, 2026 · Los Angeles, CA | Scholarship · Paid | <a href="https://nbmbaa.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| ⏳ **[OPENS SOON]** | SNMA Annual Medical Education Conference (AMEC) | Medicine | Spring 2027 · Las Vegas, NV | Scholarship · Paid | <a href="https://snma.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | 2027 dates unconfirmed; reg not open |
+| ⏳ **[OPENS SOON]** | NBLSA National Convention | Law | 2027 · Location TBA | Paid (student) | <a href="https://www.nblsa.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | 2027 dates not yet announced |
 
 ---
 
@@ -238,11 +237,11 @@ Conferences centering women across every major.
 
 | Status | Conference | Field | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | SHPE National Convention | Engineering | Oct-Nov 2026 · Location TBA | Scholarship · Paid | <a href="https://www.shpe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Travel awards: Summer 2026 |
-| ✅ **[OPEN]** | ALPFA National Convention | Business | Aug 2026 · Location TBA | Scholarship · Paid | <a href="https://www.alpfa.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ✅ **[OPEN]** | SACNAS - The National Diversity in STEM Conference | Sciences / research | Oct 2026 · Location TBA | Travel Scholarship | <a href="https://www.sacnas.org/conference"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ⏳ **[OPENS SOON]** | LMSA National Conference | Medicine | Spring 2027 · Location TBA | Scholarship · Paid | <a href="https://lmsa.net/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
-| ✅ **[OPEN]** | HNBA Annual Convention | Law | Sep 2026 · Location TBA | Scholarship · Paid | <a href="https://hnba.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
+| ⏳ **[OPENS SOON]** | SHPE National Convention | Engineering | Oct 28-31, 2026 · Indianapolis, IN | Scholarship · Paid | <a href="https://www.shpe.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration opens soon |
+| ✅ **[OPEN]** | ALPFA National Convention | Business | Aug 9-13, 2026 · Charlotte, NC | Scholarship · Paid | <a href="https://www.alpfa.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration deadline: Jul 27, 2026 |
+| ✅ **[OPEN]** | SACNAS - The National Diversity in STEM Conference | Sciences / research | Oct 29-31, 2026 · Long Beach, CA | Travel Scholarship | <a href="https://www.sacnas.org/conference"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Reg open; travel scholarships closed |
+| ✅ **[OPEN]** | LMSA National Conference | Medicine | Sep 17-20, 2026 · Houston, TX | Scholarship · Paid | <a href="https://lmsa.net/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| ✅ **[OPEN]** | HNBA Annual Convention | Law | Sep 9-11, 2026 · National Harbor, MD | Scholarship · Paid | <a href="https://hnba.com/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
 
 ---
 
@@ -250,10 +249,10 @@ Conferences centering women across every major.
 
 | Status | Conference | Field | Dates & Location | Access | Register / Apply | Deadline |
 | ------ | ---------- | ----- | ---------------- | ------ | ---------------- | -------- |
-| ✅ **[OPEN]** | oSTEM (Out in STEM) Annual Conference | STEM | Nov 2026 · Location TBA | Scholarship · Paid | <a href="https://ostem.org/page/conference"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Fall 2026 |
-| ✅ **[OPEN]** | Lesbians Who Tech + Allies Summit | Tech | 2026 · San Francisco, CA + Virtual | Free/discounted student passes | <a href="https://lesbianswhotech.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check site |
-| ✅ **[OPEN]** | Lavender Law (National LGBTQ+ Bar) | Law | Aug 2026 · Location TBA | Scholarship · Paid | <a href="https://lgbtqbar.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Summer 2026 |
-| ⏳ **[OPENS SOON]** | Out & Equal Workplace Summit | Cross-industry | 2026 · Location TBA | Paid (student rate) | <a href="https://outandequal.org/summit/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
+| ✅ **[OPEN]** | oSTEM (Out in STEM) Annual Conference | STEM | Oct 22-24, 2026 · Albuquerque, NM | Scholarship · Paid | <a href="https://conference.ostem.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Registration open |
+| ✅ **[OPEN]** | Lesbians Who Tech + Allies Summit | Tech | Oct 5-7, 2026 · New York, NY + Virtual | Free/discounted student passes | <a href="https://lwtsquad.com/lwt-summit-2026/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Reg open; scholarships available |
+| 🔥 **[CLOSING SOON]** | Lavender Law (National LGBTQ+ Bar) | Law | Jul 13-15, 2026 · Chicago, IL | Scholarship · Paid | <a href="https://lgbtqbar.org/annual/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Event in mid-July; register now |
+| ✅ **[OPEN]** | Out & Equal Workplace Summit | Cross-industry | Oct 12-15, 2026 · Seattle, WA | Paid (student rate) | <a href="https://outandequal.org/workplace-summit/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration open through Oct 9 |
 
 ---
 
