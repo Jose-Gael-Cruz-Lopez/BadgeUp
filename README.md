@@ -100,8 +100,6 @@ This is community-driven. If you know a conference - or you got funded to one - 
 | ✅ **[OPEN]** | AWS re:Invent | Cloud, AI | Dec 2026 · Las Vegas, NV | Scholarship · Paid | <a href="https://reinvent.awsevents.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | All Builders Welcome grant (funded): Jul 14, 2026 |
 | ⏳ **[OPENS SOON]** | PyCon US | Python | May 2027 · Location TBA | Scholarship | <a href="https://us.pycon.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Early 2027 |
 | ✅ **[OPEN]** | NeurIPS | AI / machine learning | Dec 2026 · San Diego, CA | Scholarship · Paid | <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Fall 2026 |
-| ✅ **[OPEN]** | HackMIT | Student hackathon | Fall 2026 · Cambridge, MA | Free | <a href="https://hackmit.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check site |
-| ✅ **[OPEN]** | Hack-Nation Global AI Hackathon | AI hackathon | Jul 2026 · Virtual + hubs (SF, Stanford) | Free | <a href="https://hack-nation.ai/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check site |
 
 ---
 
@@ -184,7 +182,6 @@ This is community-driven. If you know a conference - or you got funded to one - 
 | ⏳ **[OPENS SOON]** | College Art Association (CAA) Annual Conference | Art & art history | Feb 2027 · Location TBA | Paid (student) | <a href="https://www.collegeart.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Early 2027 |
 | ✅ **[OPEN]** | AIGA Design Conference | Graphic & communication design | Fall 2026 · Location TBA | Paid (student) | <a href="https://www.aiga.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
 | ⏳ **[OPENS SOON]** | SXSW | Film, music, media, interactive | Mar 2027 · Austin, TX | Paid (student) | <a href="https://www.sxsw.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
-| ✅ **[OPEN]** | Adobe Student Insider Summit | Design & creativity (Adobe) | 2026-2027 · San Jose, CA (Adobe HQ) | Scholarship | <a href="https://event.adobe.com/insiders-summit-26"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Funded trip: check site |
 
 ---
 
@@ -210,7 +207,6 @@ Conferences open to students of any major - undergraduate research, leadership, 
 | ✅ **[OPEN]** | ColorStack National Events | Black & Latinx computing students | Year-round · Members + Virtual | Free for members | <a href="https://www.colorstack.org/"><img src="https://img.shields.io/badge/Join-blue?style=for-the-badge" alt="Join"></a> | Rolling membership |
 | ⏳ **[OPENS SOON]** | Web Summit | General tech & startups | Nov 2026 · Lisbon, Portugal | Paid (student tickets) | <a href="https://websummit.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
 | ✅ **[OPEN]** | EA Global: New York City | Effective altruism, cross-discipline | 2026 · New York, NY | Scholarship · Paid | <a href="https://www.effectivealtruism.org/ea-global"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Check site (travel funding available) |
-| ✅ **[OPEN]** | YC Startup Internship Expo | Startups, careers, all majors | Aug 2026 · San Francisco, CA (YC HQ) | Free | <a href="https://events.ycombinator.com/2027-summer-internship-expo"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Rolling |
 
 ---
 
