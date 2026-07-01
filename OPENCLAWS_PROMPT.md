@@ -29,6 +29,7 @@ From the page text below, extract one conference as JSON matching this schema:
   "focus":        string,   // short topic, e.g. "Women in computing", "Cloud native", "AI/ML"
   "datesLocation":string,   // e.g. "Sep 2026 · Orlando, FL + Virtual" (use a season/year if exact dates are not published; note "+ Virtual" if applicable)
   "access":       string[], // any of: "FREE", "SCHOLARSHIP", "PAID"
+  "audience":     string[], // who it's geared toward, e.g. ["Students","Early career","First-gen","Professionals","Researchers","Grad students","Pre-health","Law students","Educators"]
   "url":          string,   // the official conference URL
   "deadline":     string,   // scholarship/registration deadline, or "Rolling" / "Check site"
   "section":      string,   // one of the README sections (see below)
@@ -72,11 +73,12 @@ PAGE TEXT:
 The extracted record maps to one Markdown table row in the section named by `section`:
 
 ```
-| {status_badge} | {name} | {focus} | {datesLocation} | {access_badges} | {apply_button} | {deadline} |
+| {status_badge} | {name} | {focus} | {datesLocation} | {access_badges} | {audience_tags} | {apply_button} | {deadline} |
 ```
 
 - `status_badge`: `✅ **[OPEN]**` / `🔥 **[CLOSING SOON]**` / `⏳ **[OPENS SOON]**`
 - `access_badges`: join with ` · ` - `Free`, `Scholarship`, `Paid`
+- `audience_tags`: join the `audience` values with ` · ` (e.g. `Students · Early career · First-gen`)
 - `apply_button`: `<a href="{url}"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a>` (use `Register` for open registration, `Find Event` for chapter/regional listings, `Join` for membership orgs)
 
 ## Safeguards

@@ -27,7 +27,7 @@ A conference qualifies if an **undergraduate** (any year) can realistically atte
 Each conference is one table row. Copy this template:
 
 ```markdown
-| ✅ **[OPEN]** | Conference Name | Focus area | Month Year · City, ST + Virtual | Free / Scholarship / Paid | <a href="https://OFFICIAL-URL/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Deadline or "Rolling" |
+| ✅ **[OPEN]** | Conference Name | Focus area | Month Year · City, ST + Virtual | Free / Scholarship / Paid | Students · Early career · ... | <a href="https://OFFICIAL-URL/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Deadline or "Rolling" |
 ```
 
 **Status** (first column):
@@ -39,6 +39,8 @@ Each conference is one table row. Copy this template:
 | `⏳ **[OPENS SOON]**` | Next cycle not open yet |
 
 **Access** (fifth column): use Free, Scholarship, or Paid - combine with `·` when more than one applies (e.g. `Scholarship · Paid`).
+
+**Audience** (sixth column): short tags for who it's geared toward, joined with ` · ` - e.g. `Students`, `Early career`, `Professionals`, `First-gen`, `Researchers`, `Grad students`, `Pre-health`, `Law students`, `Educators`.
 
 **Button label:** use `Apply` for scholarship/registration applications, `Register` for open registration, `Find Event` for chapter/regional listings, or `Join` for membership orgs.
 

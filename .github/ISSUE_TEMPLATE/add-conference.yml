@@ -64,6 +64,12 @@ body:
       label: Focus area
       placeholder: e.g. Women in computing / AI-ML / Cloud native / Security
   - type: input
+    id: audience
+    attributes:
+      label: Audience / who's it for
+      description: Short tags for who the conference is geared toward, separated by " · ".
+      placeholder: e.g. Students · Early career · First-gen (also Professionals, Researchers, Grad students, Pre-health, Law students, Educators)
+  - type: input
     id: dates_location
     attributes:
       label: Dates & location
