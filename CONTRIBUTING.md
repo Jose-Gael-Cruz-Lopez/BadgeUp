@@ -18,9 +18,9 @@ A conference qualifies if an **undergraduate** (any year) can realistically atte
 - 🎓 **Scholarship / travel grant** - the conference (or a partner org) funds students to attend.
 - 💵 **Paid with student pricing** - a real student, academic, or early-bird discount that undergrads can use.
 
-**Tech-focused conferences only** - software, data/AI, security, systems, hardware, product, and adjacent fields. Affinity conferences (women, Black, Latinx, LGBTQ+, disability in tech, etc.) are very welcome and go in their dedicated sections.
+**Any major welcome** - tech, business, engineering, health & medicine, sciences, social sciences, law, arts & humanities, education, and more. Each conference goes in its field/major section. Identity/community conferences (women, Black, Latinx, LGBTQ+ in any field) also go in their dedicated community sections.
 
-**Not a fit:** graduate-only or invite-only events with no student pathway, conferences with no tech relevance, or anything with no way for a student to get in.
+**Not a fit:** graduate-only or invite-only events with no student pathway, or anything with no way for an undergraduate to get in.
 
 ## Row format
 
@@ -46,7 +46,7 @@ Each conference is one table row. Copy this template:
 
 - **Link to the official site**, not a blog post or aggregator.
 - **Don't invent dates or deadlines.** If you're unsure, use "Rolling", "Check site", or a season like "Fall 2026" - accuracy over precision.
-- **Put affinity conferences in the affinity section** (Women / Black / Latinx / LGBTQ+ in Tech). A conference can appear in both a cost section and an affinity section if it genuinely fits.
+- **Sort by field/major first.** Identity/community conferences (Women / Black / Latinx / LGBTQ+ in Their Field) go in their community section, and can also be cross-listed under their field if it genuinely fits.
 - **Keep it alphabetical-ish by status** - OPEN and CLOSING SOON rows near the top of each table.
 - **One conference per row.** Recurring regional events (DevFest, WiDS, Techqueria) can be a single row that links to the chapter finder.
 

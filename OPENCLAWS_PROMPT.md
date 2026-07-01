@@ -35,21 +35,29 @@ From the page text below, extract one conference as JSON matching this schema:
   "status":       string    // "OPEN" | "CLOSING_SOON" | "OPENS_SOON"
 }
 
-Section must be exactly one of:
-- "Free to Attend"
-- "Scholarships & Travel Grants"
-- "Paid (Student Discounts)"
-- "Women in Tech Conferences"
-- "Black in Tech Conferences"
-- "Latinx in Tech Conferences"
-- "LGBTQ+ in Tech Conferences"
+Section must be exactly one of (pick the field/major):
+- "Tech & Computing"
+- "Business & Finance"
+- "Engineering"
+- "Health & Medicine"
+- "Sciences & Research"
+- "Social Sciences & Policy"
+- "Law & Government"
+- "Arts, Humanities & Design"
+- "Education"
+- "Multidisciplinary / General"
+- "Women in Their Field"
+- "Black Professionals & Students"
+- "Latinx Professionals & Students"
+- "LGBTQ+ in Their Field"
 
 Rules:
 - "access" reflects how an undergrad can attend: FREE (free reg or free virtual
   track), SCHOLARSHIP (student scholarship/travel grant offered), PAID (ticket
   with a student/academic discount). Include every option that applies.
-- Put affinity conferences (women / Black / Latinx / LGBTQ+ in tech) in their
-  affinity section. Otherwise choose the section by primary access type.
+- Choose "section" by the conference's field/major. If it primarily centers an
+  identity/community (women / Black / Latinx / LGBTQ+), use that community
+  section; a maintainer may also cross-list it under its field.
 - "status": OPEN if registration or scholarships are open now; CLOSING_SOON if a
   deadline is within ~2 weeks; OPENS_SOON if the next cycle is not open yet.
 

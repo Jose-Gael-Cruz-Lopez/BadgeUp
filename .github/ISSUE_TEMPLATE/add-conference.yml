@@ -39,14 +39,22 @@ body:
     id: section
     attributes:
       label: Which section does it belong in?
+      description: Pick the field (major). If it's an identity/community conference, note that too and a maintainer will cross-list it.
       options:
-        - Free to Attend
-        - Scholarships & Travel Grants
-        - Paid (Student Discounts)
-        - Women in Tech Conferences
-        - Black in Tech Conferences
-        - Latinx in Tech Conferences
-        - LGBTQ+ in Tech Conferences
+        - Tech & Computing
+        - Business & Finance
+        - Engineering
+        - Health & Medicine
+        - Sciences & Research
+        - Social Sciences & Policy
+        - Law & Government
+        - Arts, Humanities & Design
+        - Education
+        - Multidisciplinary / General
+        - Women in Their Field
+        - Black Professionals & Students
+        - Latinx Professionals & Students
+        - LGBTQ+ in Their Field
         - Not sure - maintainer decides
     validations:
       required: true

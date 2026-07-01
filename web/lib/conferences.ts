@@ -1,4 +1,4 @@
-// Data model for the Undergrad Tech Conferences list.
+// Data model for the BadgeUp undergrad conference list.
 //
 // This is the single source of truth for the web app. The README.md at the repo
 // root is the canonical human-facing list; this file mirrors a representative
@@ -10,14 +10,22 @@ export type Status = "OPEN" | "CLOSING_SOON" | "OPENS_SOON";
 /** How an undergrad can afford to attend. A conference may qualify under several. */
 export type Access = "FREE" | "SCHOLARSHIP" | "PAID";
 
+/** Field/major sections, plus cross-cutting community sections. */
 export type Section =
-  | "Free to Attend"
-  | "Scholarships & Travel Grants"
-  | "Paid (Student Discounts)"
-  | "Women in Tech Conferences"
-  | "Black in Tech Conferences"
-  | "Latinx in Tech Conferences"
-  | "LGBTQ+ in Tech Conferences";
+  | "Tech & Computing"
+  | "Business & Finance"
+  | "Engineering"
+  | "Health & Medicine"
+  | "Sciences & Research"
+  | "Social Sciences & Policy"
+  | "Law & Government"
+  | "Arts, Humanities & Design"
+  | "Education"
+  | "Multidisciplinary / General"
+  | "Women in Their Field"
+  | "Black Professionals & Students"
+  | "Latinx Professionals & Students"
+  | "LGBTQ+ in Their Field";
 
 export interface Conference {
   status: Status;
@@ -44,13 +52,20 @@ export const ACCESS_LABEL: Record<Access, string> = {
 };
 
 export const SECTIONS: Section[] = [
-  "Free to Attend",
-  "Scholarships & Travel Grants",
-  "Paid (Student Discounts)",
-  "Women in Tech Conferences",
-  "Black in Tech Conferences",
-  "Latinx in Tech Conferences",
-  "LGBTQ+ in Tech Conferences",
+  "Tech & Computing",
+  "Business & Finance",
+  "Engineering",
+  "Health & Medicine",
+  "Sciences & Research",
+  "Social Sciences & Policy",
+  "Law & Government",
+  "Arts, Humanities & Design",
+  "Education",
+  "Multidisciplinary / General",
+  "Women in Their Field",
+  "Black Professionals & Students",
+  "Latinx Professionals & Students",
+  "LGBTQ+ in Their Field",
 ];
 
 // Representative subset - see README.md for the full, canonical list.
@@ -63,57 +78,27 @@ export const conferences: Conference[] = [
     access: ["FREE"],
     url: "https://githubuniverse.com/",
     deadline: "Rolling",
-    section: "Free to Attend",
+    section: "Tech & Computing",
   },
   {
     status: "OPEN",
     name: "Grace Hopper Celebration (GHC)",
     focus: "Women in computing",
     datesLocation: "Sep 2026 · Orlando, FL + Virtual",
-    access: ["SCHOLARSHIP"],
+    access: ["SCHOLARSHIP", "PAID"],
     url: "https://ghc.anitab.org/",
     deadline: "Student scholarships: check site",
-    section: "Scholarships & Travel Grants",
+    section: "Tech & Computing",
   },
   {
     status: "OPEN",
-    name: "ACM Richard Tapia Celebration of Diversity in Computing",
-    focus: "Diversity in computing",
+    name: "National Black MBA Association Conference",
+    focus: "Business, careers",
     datesLocation: "Sep 2026 · Location TBA",
-    access: ["SCHOLARSHIP"],
-    url: "https://tapiaconference.cmd-it.org/",
-    deadline: "Scholarship deadline: check site",
-    section: "Scholarships & Travel Grants",
-  },
-  {
-    status: "OPEN",
-    name: "KubeCon + CloudNativeCon NA",
-    focus: "Cloud native, Kubernetes",
-    datesLocation: "Nov 2026 · Los Angeles, CA",
-    access: ["PAID", "SCHOLARSHIP"],
-    url: "https://www.cncf.io/kubecon-cloudnativecon-events/",
-    deadline: "Scholarship: Fall 2026",
-    section: "Paid (Student Discounts)",
-  },
-  {
-    status: "OPEN",
-    name: "Society of Women Engineers - WE26",
-    focus: "Engineering",
-    datesLocation: "Oct 2026 · Location TBA",
     access: ["SCHOLARSHIP", "PAID"],
-    url: "https://we26.swe.org/",
-    deadline: "Travel grants: Summer 2026",
-    section: "Women in Tech Conferences",
-  },
-  {
-    status: "OPEN",
-    name: "AfroTech Conference",
-    focus: "Black technologists & founders",
-    datesLocation: "Nov 2026 · Houston, TX",
-    access: ["SCHOLARSHIP", "PAID"],
-    url: "https://afrotech.com/afrotech-conference",
-    deadline: "Scholarships: Fall 2026",
-    section: "Black in Tech Conferences",
+    url: "https://nbmbaa.org/",
+    deadline: "Summer 2026",
+    section: "Business & Finance",
   },
   {
     status: "OPEN",
@@ -123,7 +108,37 @@ export const conferences: Conference[] = [
     access: ["SCHOLARSHIP", "PAID"],
     url: "https://www.shpe.org/",
     deadline: "Travel awards: Summer 2026",
-    section: "Latinx in Tech Conferences",
+    section: "Engineering",
+  },
+  {
+    status: "OPEN",
+    name: "SACNAS - The National Diversity in STEM Conference",
+    focus: "Diversity in STEM research",
+    datesLocation: "Oct 2026 · Location TBA",
+    access: ["SCHOLARSHIP"],
+    url: "https://www.sacnas.org/conference",
+    deadline: "Summer 2026",
+    section: "Sciences & Research",
+  },
+  {
+    status: "OPENS_SOON",
+    name: "SNMA Annual Medical Education Conference (AMEC)",
+    focus: "Underrepresented in medicine",
+    datesLocation: "Apr 2027 · Location TBA",
+    access: ["SCHOLARSHIP", "PAID"],
+    url: "https://snma.org/",
+    deadline: "Early 2027",
+    section: "Health & Medicine",
+  },
+  {
+    status: "OPEN",
+    name: "AfroTech Conference",
+    focus: "Black technologists & founders",
+    datesLocation: "Nov 2026 · Houston, TX",
+    access: ["SCHOLARSHIP", "PAID"],
+    url: "https://afrotech.com/afrotech-conference",
+    deadline: "Scholarships: Fall 2026",
+    section: "Black Professionals & Students",
   },
   {
     status: "OPEN",
@@ -133,7 +148,7 @@ export const conferences: Conference[] = [
     access: ["SCHOLARSHIP", "PAID"],
     url: "https://ostem.org/page/conference",
     deadline: "Fall 2026",
-    section: "LGBTQ+ in Tech Conferences",
+    section: "LGBTQ+ in Their Field",
   },
 ];
 
