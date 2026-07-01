@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for contributing! This takes about 60 seconds. A maintainer will review and add it to the list.
-        Only the official URL and access type are required — leave the rest blank if you're not sure.
+        Only the official URL and access type are required - leave the rest blank if you're not sure.
   - type: input
     id: name
     attributes:
@@ -47,7 +47,7 @@ body:
         - Black in Tech Conferences
         - Latinx in Tech Conferences
         - LGBTQ+ in Tech Conferences
-        - Not sure — maintainer decides
+        - Not sure - maintainer decides
     validations:
       required: true
   - type: input

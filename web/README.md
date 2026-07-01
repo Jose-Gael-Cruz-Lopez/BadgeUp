@@ -1,6 +1,6 @@
-# web/ — Undergrad Tech Conferences front-end (scaffold)
+# web/ - Undergrad Tech Conferences front-end (scaffold)
 
-A minimal [Next.js](https://nextjs.org) (App Router) + TypeScript + Tailwind CSS v4 app that renders the conference list. This is an intentional **stub** — the canonical, full list lives in the repo-root [`README.md`](../README.md). Right now the app renders a representative subset from [`lib/conferences.ts`](lib/conferences.ts).
+A minimal [Next.js](https://nextjs.org) (App Router) + TypeScript + Tailwind CSS v4 app that renders the conference list. This is an intentional **stub** - the canonical, full list lives in the repo-root [`README.md`](../README.md). Right now the app renders a representative subset from [`lib/conferences.ts`](lib/conferences.ts).
 
 ## Getting started
 

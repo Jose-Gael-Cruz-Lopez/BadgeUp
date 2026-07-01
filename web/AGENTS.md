@@ -1,6 +1,6 @@
-# AGENTS.md — web/
+# AGENTS.md - web/
 
-See [`CLAUDE.md`](CLAUDE.md) for the full guidance — it applies to all AI agents working in this directory.
+See [`CLAUDE.md`](CLAUDE.md) for the full guidance - it applies to all AI agents working in this directory.
 
 ## Quick reference
 

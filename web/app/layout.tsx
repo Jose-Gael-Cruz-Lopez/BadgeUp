@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Undergrad Tech Conferences",
   description:
-    "Tech conferences undergrads can actually attend — free, scholarship-funded, or student-priced.",
+    "Tech conferences undergrads can actually attend - free, scholarship-funded, or student-priced.",
 };
 
 export default function RootLayout({

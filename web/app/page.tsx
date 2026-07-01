@@ -9,7 +9,7 @@ export default function Home() {
           🎟️ Undergrad Tech Conferences
         </h1>
         <p className="mt-2 text-neutral-400">
-          Tech conferences undergrads can actually get into — attend free, win a
+          Tech conferences undergrads can actually get into - attend free, win a
           scholarship, or find the student rate.
         </p>
         <p className="mt-4 text-sm text-neutral-500">

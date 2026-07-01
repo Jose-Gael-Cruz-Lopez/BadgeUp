@@ -1,7 +1,7 @@
 import { ACCESS_LABEL, STATUS_LABEL, type Conference } from "@/lib/conferences";
 
 /**
- * Renders one section's conferences as a table. Server component — no client
+ * Renders one section's conferences as a table. Server component - no client
  * interactivity yet. Add filtering/sorting as a client component later.
  */
 export function ConferenceTable({ rows }: { rows: Conference[] }) {

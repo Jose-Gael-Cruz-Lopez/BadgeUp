@@ -53,7 +53,7 @@ export const SECTIONS: Section[] = [
   "LGBTQ+ in Tech Conferences",
 ];
 
-// Representative subset — see README.md for the full, canonical list.
+// Representative subset - see README.md for the full, canonical list.
 export const conferences: Conference[] = [
   {
     status: "OPEN",
@@ -97,7 +97,7 @@ export const conferences: Conference[] = [
   },
   {
     status: "OPEN",
-    name: "Society of Women Engineers — WE26",
+    name: "Society of Women Engineers - WE26",
     focus: "Engineering",
     datesLocation: "Oct 2026 · Location TBA",
     access: ["SCHOLARSHIP", "PAID"],
@@ -119,7 +119,7 @@ export const conferences: Conference[] = [
     status: "OPEN",
     name: "SHPE National Convention",
     focus: "Hispanic engineers",
-    datesLocation: "Oct–Nov 2026 · Location TBA",
+    datesLocation: "Oct-Nov 2026 · Location TBA",
     access: ["SCHOLARSHIP", "PAID"],
     url: "https://www.shpe.org/",
     deadline: "Travel awards: Summer 2026",
