@@ -99,6 +99,8 @@ This is community-driven. If you know a conference - or you got funded to one - 
 | ✅ **[OPEN]** | KubeCon + CloudNativeCon NA | Cloud native, Kubernetes | Nov 9-12, 2026 · Salt Lake City, UT | Scholarship · Paid | <a href="https://www.cncf.io/kubecon-cloudnativecon-events/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration open; scholarships TBA |
 | ✅ **[OPEN]** | AWS re:Invent | Cloud, AI | Nov 30-Dec 4, 2026 · Las Vegas, NV | Scholarship · Paid | <a href="https://reinvent.awsevents.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | All Builders Welcome grant (funded): Jul 14, 2026 |
 | ✅ **[OPEN]** | IBM Quantum Developer Conference | Quantum computing | Nov 11-13, 2026 · Chicago, IL | Free | <a href="https://www.ibm.com/quantum/blog/qdc-application-2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Application deadline: Sep 21, 2026 |
+| ✅ **[OPEN]** | DevRelCon New York | Developer relations | Jul 22-23, 2026 · Brooklyn, NY | Scholarship · Paid | <a href="https://ti.to/mlh/devrelcon-2026/discount/MLHStudent"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Rolling; 50% MLH student discount |
+| ⏳ **[OPENS SOON]** | SC Conference (Supercomputing) | HPC, networking, storage | Nov 15-20, 2026 · Chicago, IL | Paid (student) | <a href="https://sc26.supercomputing.org/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration opens Jul 8, 2026 |
 | ⏳ **[OPENS SOON]** | PyCon US | Python | May 2027 · Long Beach, CA | Scholarship | <a href="https://us.pycon.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | 2027 dates not yet announced |
 | ⏳ **[OPENS SOON]** | NeurIPS | AI / machine learning | Dec 6-12, 2026 · Sydney, Australia | Scholarship · Paid | <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Attendee registration not yet open |
 
@@ -298,6 +300,18 @@ Building and maintaining this list 💛
         <sub><b>Joel Vasquez</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/tomassantos484">
+        <img src="https://github.com/tomassantos484.png" width="115" height="115" alt="Tomas Santos Yciano"><br>
+        <sub><b>Tomas Santos Yciano</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Cchristineee">
+        <img src="https://github.com/Cchristineee.png" width="115" height="115" alt="Christine Grimadeau"><br>
+        <sub><b>Christine Grimadeau</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -330,5 +344,8 @@ Real photos from conferences people found through this list. Went to one? [Share
 <a href="assets/gallery/conference-keynote-session.jpg"><img src="assets/gallery/conference-keynote-session.jpg" height="175" alt="Conference keynote session"></a>
 <a href="assets/gallery/conference-travel-crew.jpg"><img src="assets/gallery/conference-travel-crew.jpg" height="175" alt="Students traveling to a conference"></a>
 <a href="assets/gallery/conference-group-meal.jpg"><img src="assets/gallery/conference-group-meal.jpg" height="175" alt="Conference group"></a>
+<a href="assets/gallery/aws-reinvent-2025-cert-lounge.jpg"><img src="assets/gallery/aws-reinvent-2025-cert-lounge.jpg" height="175" alt="AWS Certification Lounge, AWS re:Invent 2025"></a>
+<a href="assets/gallery/developerweek-nyc-2026.jpg"><img src="assets/gallery/developerweek-nyc-2026.jpg" height="175" alt="DeveloperWeek 2026, TWA Hotel at JFK"></a>
+<a href="assets/gallery/aws-summit-nyc-2026.jpg"><img src="assets/gallery/aws-summit-nyc-2026.jpg" height="175" alt="AWS Summit New York City 2026"></a>
 </p>
 <!-- GALLERY_END -->
