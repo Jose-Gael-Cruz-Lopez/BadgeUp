@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="978" height="220" viewBox="0 0 978 220" fill="none" role="img" aria-label="Undergrad Tech Conferences">
+<svg xmlns="http://www.w3.org/2000/svg" width="978" height="220" viewBox="0 0 978 220" fill="none" role="img" aria-label="BadgeUp - Undergrad Tech Conferences">
   <rect width="978" height="220" rx="16" fill="#0A0A0A"/>
   <rect x="1" y="1" width="976" height="218" rx="15" fill="none" stroke="#1F1F1F"/>
 
@@ -9,7 +9,7 @@
   <rect x="52" y="86" width="52" height="34" rx="6" fill="none" stroke="#FFD700" stroke-width="3"/>
   <line x1="78" y1="86" x2="78" y2="120" stroke="#FFD700" stroke-width="3" stroke-dasharray="4 4"/>
 
-  <text x="192" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="1" fill="#FFFFFF">UNDERGRAD TECH</text>
-  <text x="192" y="146" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="1" fill="#FFD700">CONFERENCES</text>
-  <text x="194" y="182" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="500" fill="#9A9A9A">Attend free  &#183;  Win a scholarship  &#183;  Find the student rate</text>
+  <text x="192" y="96" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="1" fill="#FFFFFF">BadgeUp</text>
+  <text x="194" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="700" letter-spacing="1" fill="#FFD700">Undergrad Tech Conferences</text>
+  <text x="194" y="176" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#9A9A9A">Attend free  &#183;  Win a scholarship  &#183;  Find the student rate</text>
 </svg>

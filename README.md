@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🎟️ Undergrad Tech Conferences
+# 🎟️ BadgeUp
 
-### The only conference list built for undergrads - attend free, win a scholarship, or find the student rate.
+### Undergrad Tech Conferences - attend free, win a scholarship, or find the student rate.
 
-[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&color=FFD700&labelColor=000000&cacheSeconds=86400)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/stargazers)
+[![Stars](https://img.shields.io/github/stars/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&color=FFD700&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/stargazers)
 [![Last Updated](https://img.shields.io/github/last-commit/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&label=Last%20Updated&color=00C853&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/commits/main)
 [![Contributors](https://img.shields.io/github/contributors/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&color=0091EA&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/graphs/contributors)
 [![Submissions](https://img.shields.io/github/issues/Jose-Gael-Cruz-Lopez/BadgeUp?style=for-the-badge&label=Submissions&color=FF6D00&labelColor=000000)](https://github.com/Jose-Gael-Cruz-Lopez/BadgeUp/issues)
@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img width="978" height="220" alt="Undergrad Tech Conferences" src="assets/banner.svg" />
+  <img width="978" height="220" alt="BadgeUp - Undergrad Tech Conferences" src="assets/banner.svg" />
 </div>
 
 > [!IMPORTANT]
@@ -195,7 +195,7 @@ Building and maintaining this list 💛
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/josegaelcruz">
-        <img src="assets/contributors/jose.svg" width="115" height="115" alt="Jose Cruz"><br>
+        <img src="assets/contributors/jose.jpg" width="115" height="115" alt="Jose Cruz"><br>
         <sub><b>Jose Cruz</b></sub>
       </a>
     </td>

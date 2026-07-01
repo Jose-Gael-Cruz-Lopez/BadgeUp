@@ -15,4 +15,4 @@ Photos shown on the **Contributors** wall in the root [`README.md`](../../README
    </td>
    ```
 
-`jose.svg` is a placeholder initials avatar - replace it with a real `jose.jpg` when available.
+Use a square image so it renders cleanly at 115x115 (e.g. `jose.jpg` is 460x460).
