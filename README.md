@@ -98,6 +98,7 @@ This is community-driven. If you know a conference - or you got funded to one - 
 | ✅ **[OPEN]** | ACM Richard Tapia Celebration of Diversity in Computing | Diversity in computing | Sep 16-18, 2026 · Atlanta, GA | Scholarship | <a href="https://tapiaconference.cmd-it.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Reg open; scholarships closed (Mar 2026) |
 | ✅ **[OPEN]** | KubeCon + CloudNativeCon NA | Cloud native, Kubernetes | Nov 9-12, 2026 · Salt Lake City, UT | Scholarship · Paid | <a href="https://www.cncf.io/kubecon-cloudnativecon-events/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | Registration open; scholarships TBA |
 | ✅ **[OPEN]** | AWS re:Invent | Cloud, AI | Nov 30-Dec 4, 2026 · Las Vegas, NV | Scholarship · Paid | <a href="https://reinvent.awsevents.com/"><img src="https://img.shields.io/badge/Register-blue?style=for-the-badge" alt="Register"></a> | All Builders Welcome grant (funded): Jul 14, 2026 |
+| ✅ **[OPEN]** | IBM Quantum Developer Conference | Quantum computing | Nov 11-13, 2026 · Chicago, IL | Free | <a href="https://www.ibm.com/quantum/blog/qdc-application-2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Application deadline: Sep 21, 2026 |
 | ⏳ **[OPENS SOON]** | PyCon US | Python | May 2027 · Long Beach, CA | Scholarship | <a href="https://us.pycon.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | 2027 dates not yet announced |
 | ⏳ **[OPENS SOON]** | NeurIPS | AI / machine learning | Dec 6-12, 2026 · Sydney, Australia | Scholarship · Paid | <a href="https://neurips.cc/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Attendee registration not yet open |
 
@@ -289,6 +290,12 @@ Building and maintaining this list 💛
       <a href="https://www.linkedin.com/in/josegaelcruz">
         <img src="assets/contributors/jose.jpg" width="115" height="115" alt="Jose Cruz"><br>
         <sub><b>Jose Cruz</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jguapp">
+        <img src="https://github.com/jguapp.png" width="115" height="115" alt="Joel Vasquez"><br>
+        <sub><b>Joel Vasquez</b></sub>
       </a>
     </td>
   </tr>
